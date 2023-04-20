@@ -1,0 +1,9 @@
+Package: alias20.bfdecryptor
+Name: bfdecryptor
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: bfdecrypt for rootless/Ellekit
+Maintainer: alias20
+Author: BishopFox
+Section: Tweaks
+Depends: mobilesubstrate, com.opa334.altlist, preferenceloader
